@@ -24,7 +24,7 @@ static void change_ver(void);
 
 /**  csvファイルから、情報を取得する変数  **/
 char Scene[D_CONFFILE_MAX][D_SCENENAME_LEN];			// 監視シーン
-char ConfName[D_CONFFILE_MAX][D_CONFNAME_LEN];			// conffファイルの名前
+char ConfName[D_CONFFILE_MAX][D_CONFNAME_LEN];			// confファイルの名前
 char KeyWord[D_KEYWORD_MAX][D_KEYWORD_LEN];				// keywords
 char data[D_CONFFILE_MAX][D_KEYWORD_MAX][D_DATA_LEN];	// data
 
