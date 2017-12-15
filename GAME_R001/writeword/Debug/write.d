@@ -1,0 +1,1 @@
+write.d: ../write.c

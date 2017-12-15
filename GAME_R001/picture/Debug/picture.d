@@ -1,0 +1,1 @@
+picture.d: ../picture.c

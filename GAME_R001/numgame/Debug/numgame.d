@@ -1,0 +1,1 @@
+numgame.d: ../numgame.c
